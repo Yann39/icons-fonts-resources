@@ -14,22 +14,22 @@ Feel free to use them in your projects.
 
 #### Type a
 
-![icon-file-a-avi](icons\file\png\icon-file-a-avi.png?raw=true "icon-file-a-avi")
-![icon-file-a-doc](icons\file\png\icon-file-a-doc.png?raw=true "icon-file-a-doc")
-![icon-file-a-exe](icons\file\png\icon-file-a-exe.png?raw=true "icon-file-a-exe")
-![icon-file-a-gif](icons\file\png\icon-file-a-gif.png?raw=true "icon-file-a-gif")
-![icon-file-a-jpg](icons\file\png\icon-file-a-jpg.png?raw=true "icon-file-a-jpg")
-![icon-file-a-mp3](icons\file\png\icon-file-a-mp3.png?raw=true "icon-file-a-mp3")
-![icon-file-a-mp4](icons\file\png\icon-file-a-mp4.png?raw=true "icon-file-a-mp4")
-![icon-file-a-mpg](icons\file\png\icon-file-a-mpg.png?raw=true "icon-file-a-mpg")
-![icon-file-a-pdf](icons\file\png\icon-file-a-pdf.png?raw=true "icon-file-a-pdf")
-![icon-file-a-png](icons\file\png\icon-file-a-png.png?raw=true "icon-file-a-png")
-![icon-file-a-ppt](icons\file\png\icon-file-a-ppt.png?raw=true "icon-file-a-ppt")
-![icon-file-a-rar](icons\file\png\icon-file-a-rar.png?raw=true "icon-file-a-rar")
-![icon-file-a-txt](icons\file\png\icon-file-a-txt.png?raw=true "icon-file-a-txt")
-![icon-file-a-xls](icons\file\png\icon-file-a-xls.png?raw=true "icon-file-a-xls")
-![icon-file-a-xml](icons\file\png\icon-file-a-xml.png?raw=true "icon-file-a-xml")
-![icon-file-a-zip](icons\file\png\icon-file-a-zip.png?raw=true "icon-file-a-zip")
+![icon-file-a-avi](icons/file/png/icon-file-a-avi.png?raw=true "icon-file-a-avi")
+![icon-file-a-doc](icons/file/png/icon-file-a-doc.png?raw=true "icon-file-a-doc")
+![icon-file-a-exe](icons/file/png/icon-file-a-exe.png?raw=true "icon-file-a-exe")
+![icon-file-a-gif](icons/file/png/icon-file-a-gif.png?raw=true "icon-file-a-gif")
+![icon-file-a-jpg](icons/file/png/icon-file-a-jpg.png?raw=true "icon-file-a-jpg")
+![icon-file-a-mp3](icons/file/png/icon-file-a-mp3.png?raw=true "icon-file-a-mp3")
+![icon-file-a-mp4](icons/file/png/icon-file-a-mp4.png?raw=true "icon-file-a-mp4")
+![icon-file-a-mpg](icons/file/png/icon-file-a-mpg.png?raw=true "icon-file-a-mpg")
+![icon-file-a-pdf](icons/file/png/icon-file-a-pdf.png?raw=true "icon-file-a-pdf")
+![icon-file-a-png](icons/file/png/icon-file-a-png.png?raw=true "icon-file-a-png")
+![icon-file-a-ppt](icons/file/png/icon-file-a-ppt.png?raw=true "icon-file-a-ppt")
+![icon-file-a-rar](icons/file/png/icon-file-a-rar.png?raw=true "icon-file-a-rar")
+![icon-file-a-txt](icons/file/png/icon-file-a-txt.png?raw=true "icon-file-a-txt")
+![icon-file-a-xls](icons/file/png/icon-file-a-xls.png?raw=true "icon-file-a-xls")
+![icon-file-a-xml](icons/file/png/icon-file-a-xml.png?raw=true "icon-file-a-xml")
+![icon-file-a-zip](icons/file/png/icon-file-a-zip.png?raw=true "icon-file-a-zip")
 
 Specifications :
 - Formats : `SVG`, `PNG`

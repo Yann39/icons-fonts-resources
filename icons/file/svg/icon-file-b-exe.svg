@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!-- Created by Yann <rockyracer@mailfence.com> -->
+
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   width="60"
+   height="60"
+   viewBox="0 0 60 60"
+   version="1.1"
+   id="svg8">
+  <path
+     style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1.04574919;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+     d="m 13,0 c -1.414212,0 -3,1.58579 -3,3 v 42 12 c 0,1.4142 1.585804,3 3,3 h 44 c 1.414227,0 3,-1.58577 3,-3 V 45 11 L 49,0 Z"
+     id="rect820" />
+  <path
+     id="rect820-2-7"
+     d="m 48.999947,0 v 8 c 0,1.41421 1.585784,3 2.999996,3 h 7.999987 z"
+     style="fill:#69505a;fill-opacity:1;stroke:none;stroke-width:0.9976579;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+  <path
+     style="fill:#69505a;fill-opacity:1;stroke:none;stroke-width:1.38912702;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+     d="m 3,24 h 39 c 1.672043,0 3,1.36511 3,3 v 15 c 0,1.63489 -1.327957,3 -3,3 H 3 C 1.3279575,45 0,43.63489 0,42 V 27 c 0,-1.63489 1.3279575,-3 3,-3 z"
+     id="rect824" />
+  <path
+     d="m 9.6227214,40.030926 v -11.06185 h 6.6608076 v 1.760417 h -4.544922 v 2.750651 h 4.333333 v 1.718099 h -4.333333 v 3.072266 h 4.544922 v 1.760417 z"
+     id="path824"
+     style="fill:#ffffff" />
+  <path
+     d="m 24.425456,40.030926 -2.132813,-4.070964 -2.098958,4.070964 h -2.513672 l 3.190755,-5.670573 -2.979166,-5.391277 h 2.445963 l 2.00586,3.850912 1.938151,-3.850912 h 2.445963 l -2.962239,5.391277 3.309245,5.670573 z"
+     id="path826"
+     style="fill:#ffffff" />
+  <path
+     d="m 28.716471,40.030926 v -11.06185 h 6.660808 v 1.760417 h -4.544922 v 2.750651 h 4.333333 v 1.718099 h -4.333333 v 3.072266 h 4.544922 v 1.760417 z"
+     id="path828"
+     style="fill:#ffffff" />
+</svg>

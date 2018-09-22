@@ -1,18 +1,16 @@
-# Resources
-
-## About
+# About
 
 The purpose of this project is to bring together some resources (icons and fonts) I had to create for different projects.
 
-All resources have been created using **Inkscape** and **PhotoFiltre** softwares.
+All resources were created from scratch using **Inkscape** software.
 
 Feel free to use them in your projects.
 
-## Icons
+# Icons
 
-### Files
+## Files
 
-#### Type a
+Type `a` :
 
 ![icon-file-a-avi](icons/file/png/icon-file-a-avi.png?raw=true "icon-file-a-avi")
 ![icon-file-a-doc](icons/file/png/icon-file-a-doc.png?raw=true "icon-file-a-doc")
@@ -31,13 +29,42 @@ Feel free to use them in your projects.
 ![icon-file-a-xml](icons/file/png/icon-file-a-xml.png?raw=true "icon-file-a-xml")
 ![icon-file-a-zip](icons/file/png/icon-file-a-zip.png?raw=true "icon-file-a-zip")
 
-Specifications :
+Type `b` :
+
+![icon-file-b-avi](icons/file/png/icon-file-b-avi.png?raw=true "icon-file-b-avi")
+![icon-file-b-doc](icons/file/png/icon-file-b-doc.png?raw=true "icon-file-b-doc")
+![icon-file-b-exe](icons/file/png/icon-file-b-exe.png?raw=true "icon-file-b-exe")
+![icon-file-b-gif](icons/file/png/icon-file-b-gif.png?raw=true "icon-file-b-gif")
+![icon-file-b-jpg](icons/file/png/icon-file-b-jpg.png?raw=true "icon-file-b-jpg")
+![icon-file-b-mp3](icons/file/png/icon-file-b-mp3.png?raw=true "icon-file-b-mp3")
+![icon-file-b-mp4](icons/file/png/icon-file-b-mp4.png?raw=true "icon-file-b-mp4")
+![icon-file-b-mpg](icons/file/png/icon-file-b-mpg.png?raw=true "icon-file-b-mpg")
+![icon-file-b-pdf](icons/file/png/icon-file-b-pdf.png?raw=true "icon-file-b-pdf")
+![icon-file-b-png](icons/file/png/icon-file-b-png.png?raw=true "icon-file-b-png")
+![icon-file-b-ppt](icons/file/png/icon-file-b-ppt.png?raw=true "icon-file-b-ppt")
+![icon-file-b-rar](icons/file/png/icon-file-b-rar.png?raw=true "icon-file-b-rar")
+![icon-file-b-txt](icons/file/png/icon-file-b-txt.png?raw=true "icon-file-b-txt")
+![icon-file-b-xls](icons/file/png/icon-file-b-xls.png?raw=true "icon-file-b-xls")
+![icon-file-b-xml](icons/file/png/icon-file-b-xml.png?raw=true "icon-file-b-xml")
+![icon-file-b-zip](icons/file/png/icon-file-b-zip.png?raw=true "icon-file-b-zip")
+
+Type `a` specifications :
 - Formats : `SVG`, `PNG`
 - Width : `50px`
 - Height : `60px`
 - Font family : `Consolas`
 - Font style : `Bold`
 - Font size : `11pt`
+- Text position : `centered in parent`
+- Text color : `white`
+
+Type `b` specifications :
+- Formats : `SVG`, `PNG`
+- Width : `60px`
+- Height : `60px`
+- Font family : `Consolas`
+- Font style : `Bold`
+- Font size : `13pt`
 - Text position : `centered in parent`
 - Text color : `white`
 
@@ -59,20 +86,21 @@ Available icons :
 - **XML** : light color `d38d5fff`, dark color `a05a2cff`
 - **ZIP** : light color `ffdc5aff`, dark color `ffbe1eff`
 
-#### Type b
+## Create your own
 
-### Create your own
+If you need another text that is not available you can start from one of the files to build your own.
 
-If you need another text that is not available you can start from the `base-icon-file-a.svg` file to build your own one.
-
-Open the `base-icon-file-a.svg` in **Inkscape** :
-- Edit the text and replace it with your own
-- Select the text element and the shape in the background (in which you want to center the text).
-- Open "Align and Distribute" panel (_Shift + Ctrl + A_)
-- Set "Relative to" to "Biggest object"
-- Click the icons to center the text vertically and horizontally
-- Select the text and choose _Path > Object to path_
-- Change the other colors as you want
+Open the file in **Inkscape** :
+1. Delete the shape representing the text
+2. Create a new Text object
+3. Select the text element with the shape in the background (in which you want to center the text).
+4. Open "Align and Distribute" panel (_Shift + Ctrl + A_)
+5. Set "Relative to" to "Biggest object"
+6. Click the icons to center the text vertically and horizontally
+7. Select the text and choose _Path > Object to path_
+8. Change the other colors as you want
+9. Save
+10. Personally I like to edit the XML source later to remove unnecessary stuff and keep the file clean and light
 
 ## License
 

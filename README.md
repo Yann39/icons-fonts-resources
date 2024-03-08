@@ -1,3 +1,20 @@
+# Icons & fonts resources
+
+Some **icons** and **fonts** I have created for some projects.
+
+![Version](https://img.shields.io/badge/Version-1.0.1-2AAB92.svg)
+![Static Badge](https://img.shields.io/badge/Last%20update-25%20Sept%202018-blue)
+
+---
+
+# Table of Contents
+
+* [About](#about)
+* [Icons](#icons)
+    * [Files](#files)
+        * [Create your own](#create-your-own)
+* [License](#license)
+
 # About
 
 The purpose of this project is to bring together some resources (icons and fonts) I had to create for different projects.
@@ -49,6 +66,7 @@ Type `b` :
 ![icon-file-b-zip](icons/file/png/icon-file-b-zip.png?raw=true "icon-file-b-zip")
 
 Type `a` specifications :
+
 - Formats : `SVG`, `PNG`
 - Width : `50px`
 - Height : `60px`
@@ -59,6 +77,7 @@ Type `a` specifications :
 - Text color : `white`
 
 Type `b` specifications :
+
 - Formats : `SVG`, `PNG`
 - Width : `60px`
 - Height : `60px`
@@ -69,6 +88,7 @@ Type `b` specifications :
 - Text color : `white`
 
 Available icons :
+
 - **AVI** : light color `de79aaff`, dark color `c83771ff`
 - **DOC** : light color `5a82c8ff`, dark color `325aa0ff`
 - **EXE** : light color `916e82ff`, dark color `69505aff`
@@ -86,13 +106,14 @@ Available icons :
 - **XML** : light color `d38d5fff`, dark color `a05a2cff`
 - **ZIP** : light color `ffdc5aff`, dark color `ffbe1eff`
 
-## Create your own
+### Create your own
 
 If you need another text that is not available you can start from one of the files to build your own.
 
 Open the file in **Inkscape** :
+
 1. Delete the shape representing the text
-2. Create a new Text object
+2. Create a new `Text` object
 3. Select the text element with the shape in the background (in which you want to center the text).
 4. Open "Align and Distribute" panel (_Shift + Ctrl + A_)
 5. Set "Relative to" to "Biggest object"
@@ -102,8 +123,10 @@ Open the file in **Inkscape** :
 9. Save
 10. Personally I like to edit the XML source later to remove unnecessary stuff and keep the file clean and light
 
-## License
+# License
 
 [WTFPL](http://www.wtfpl.net/) license.
 
 But a mention is always appreciated :)
+
+See [LICENSE](LICENSE) file.
